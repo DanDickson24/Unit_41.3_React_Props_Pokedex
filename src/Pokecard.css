@@ -1,0 +1,17 @@
+.pokecard {
+    background-color: #f0f0f0;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .pokecard h3 {
+    color: blue;
+  }
+  
+  .pokecard img {
+    max-width: 100%;
+    height: auto;
+    margin: 10px 0;
+  }
